@@ -26,7 +26,7 @@ THEN the saved events persist
 
 ## Links
 
-* [Day Planner Application]()
+* [Day Planner Application](https://jondnv.github.io/DayPlanner/)
 * [Github Repository](https://github.com/JonDnv/DayPlanner)
   
 ---
@@ -40,17 +40,17 @@ The following image shows the finished site:
 
 ## Contributing
 
-* Bootstrap
-* Font Awesome
-* Moment.js
-* Stack Overflow
-* w3 Scbools
-* Unsplash
-* Flexbox
+* [Bootstrap](https://getbootstrap.com/)
+* [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Font Awesome](https://fontawesome.com/)
+* [Moment.js](https://momentjs.com/)
+* [jQuery](https://jquery.com/)
+* [FontIcon](https://gauger.io/fonticon/)
 
 ---
 
 ## Change History
 
- 1. Created Shell html, js, css & README
- 2. 
+ 1. Created Shell html, js, css & README files
+ 2. Created GitHub Pages site
+ 3. 
