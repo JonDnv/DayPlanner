@@ -1,5 +1,5 @@
 body {
-  background-color: snow;
+  background-color: whitesmoke;
 }
 
 #header {
@@ -19,7 +19,7 @@ h1 {
   font-size: 5rem;
   font-weight: bold;
   text-align: center;
-  color: snow;
+  color: whitesmoke;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   margin-top: -2rem;
 }
@@ -29,7 +29,7 @@ h1 {
   font-size: 2rem;
   font-weight: bold;
   text-align: center;
-  color: snow;
+  color: whitesmoke;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   margin-bottom: -2rem;
 }
@@ -41,4 +41,8 @@ h1 {
   text-align: center;
   margin-top: auto;
   margin-bottom: auto;
+}
+
+.btn-info {
+  background-color: #7f92a5;
 }
