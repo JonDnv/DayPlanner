@@ -41,7 +41,6 @@ The following image shows the finished site:
 ## Contributing
 
 * [Bootstrap](https://getbootstrap.com/)
-* [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Font Awesome](https://fontawesome.com/)
 * [Moment.js](https://momentjs.com/)
 * [jQuery](https://jquery.com/)
