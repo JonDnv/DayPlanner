@@ -33,3 +33,12 @@ h1 {
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   margin-bottom: -2rem;
 }
+
+.timeDisplay {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
