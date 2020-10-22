@@ -34,7 +34,7 @@ THEN the saved events persist
 ## Mock Up
 
 The following image shows the finished site:
-![Website]()
+![Website](./assets/Work-Day-Scheduler.png)
 
 ---
 
@@ -52,4 +52,6 @@ The following image shows the finished site:
 
  1. Created Shell html, js, css & README files
  2. Created GitHub Pages site
- 3. 
+ 3. Updated HTML page
+ 4. Created Past/Present/Future Function
+ 5. Updated Local Storage Functions
